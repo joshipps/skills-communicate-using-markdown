@@ -8,3 +8,9 @@
 var myVar = "Hello, world!";
 print(myVar)
 ```
+
+## To-Do
+- [x] Add a header
+- [x] Add an image
+- [x] Add some code
+- [x] Add a list
